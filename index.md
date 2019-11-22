@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-#### *   [Home](./)
-#### *   [Products](./Products.html)
+*   [Home](./)
+*   [Products](./Products.html)
 
 # Welcome To X-ProxyTech
 
