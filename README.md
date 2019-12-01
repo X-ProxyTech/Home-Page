@@ -1,3 +1,3 @@
-#X-ProxyTech Home Page
+X-ProxyTech Home Page
 
-###https://x-proxytech.github.io/Home-Page/
+https://x-proxytech.github.io/Home-Page/
