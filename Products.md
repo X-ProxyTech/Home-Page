@@ -5,7 +5,7 @@ layout: default
 # Welcome to Products
 
 ### Youtube Proxy: 
-Github: </span><span style="text-decoration: underline;"><strong><a href="https://github.com/X-ProxyTech/Youtube-Proxy" title="Youtube Unblocker Github">Click Here</a></span></strong>
+Github: <span><span style="text-decoration: underline;"><strong><a href="https://github.com/X-ProxyTech/Youtube-Proxy" title="Youtube Unblocker Github">Click Here</a></strong></span>
 
 Website: </span><span style="text-decoration: underline;"><strong><a href="https://proxy-nodeyoutube-c.herokuapp.com/" title="Youtube Unblocker">Click Here</a></span></strong>
 
