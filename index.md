@@ -10,4 +10,4 @@ We make go arounds for web filters the might keep you from doing many things tha
 
 ### Navigation
 *   #### [Home](./)
-*   #### [Products](./Products.html)
+*   #### [Products](./Products.md)
