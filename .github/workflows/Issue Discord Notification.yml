@@ -1,0 +1,17 @@
+name: Discord Notification
+on: [issues]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Discord notification
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      uses: Ilshidur/action-discord@master
+      with:
+        args: 'A new Issue has been commited to X-ProxyTech/Home-Page.'
+    - name: Discord notification
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      uses: Ilshidur/action-discord@master
