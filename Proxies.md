@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to Products
+# Welcome to Proxies
 
 ## Youtube Proxy: 
 Github: <span><span style="text-decoration: underline;"><a href="https://github.com/X-ProxyTech/Youtube-Proxy" title="Youtube Unblocker Github">Click Here</a></span>
@@ -16,4 +16,4 @@ Website: <span><span style="text-decoration: underline;"><a href="http://proxy-n
 
 ## Navigation
 *   #### [Home](./)
-*   #### [Products](./Products.html)
+*   #### [Proxies](./Proxies.html)
