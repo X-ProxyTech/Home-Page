@@ -16,4 +16,4 @@ Website: <span><span style="text-decoration: underline;"><a href="http://proxy-n
 
 ## Navigation
 *   #### [Home](./)
-*   #### [Proxies](./Proxies.html)
+*   #### [Proxies](./Proxies.md)
